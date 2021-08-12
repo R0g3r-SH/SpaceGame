@@ -1,7 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":15,},
+    {"id":{"name":"Asteroid_big","path":"sprites/Asteroid_big/Asteroid_big.yy",},"order":18,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"Obstacle_Controller","path":"objects/Obstacle_Controller/Obstacle_Controller.yy",},"order":19,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Asteroid_smol","path":"sprites/Asteroid_smol/Asteroid_smol.yy",},"order":20,},
+    {"id":{"name":"Nave","path":"sprites/Nave/Nave.yy",},"order":16,},
+    {"id":{"name":"Asteroid1","path":"objects/Asteroid1/Asteroid1.yy",},"order":17,},
+    {"id":{"name":"ship_200","path":"sprites/ship_200/ship_200.yy",},"order":2,},
+    {"id":{"name":"ship_8bit","path":"sprites/ship_8bit/ship_8bit.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
