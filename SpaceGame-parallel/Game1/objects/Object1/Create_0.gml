@@ -4,7 +4,7 @@ hsp=0;
 vsp=0;
 movespeed=5;
 canshoot=true;
-vidas =5;
-
+powerup = 0
+score = 0;
 
 //accion_jefe();

@@ -3,4 +3,4 @@ global.speedModifier = 0.5;
 //audio_play_sound_on(s_emit, , loop, priority);
 
 
-alarm[0] = room_speed * 4
+alarm[0] = room_speed * 2
