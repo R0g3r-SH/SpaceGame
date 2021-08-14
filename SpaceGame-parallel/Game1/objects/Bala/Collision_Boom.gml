@@ -1,3 +1,3 @@
 
-score += 1; 
+global.scor += 1; 
 instance_destroy();
