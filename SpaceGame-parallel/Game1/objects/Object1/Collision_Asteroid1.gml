@@ -7,6 +7,6 @@ else if (sprite_index == Nave_1){
 	sprite_index = Nave_2;
 }
 else{
-	
-instance_change(Boom, true)
+	global.dead = true
+	instance_change(Boom, true)
 }

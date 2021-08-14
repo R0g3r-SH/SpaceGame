@@ -1,2 +1,2 @@
-powerup += 0.5;
+powerup += 0.8;
 global.scor += 5;

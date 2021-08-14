@@ -2,8 +2,8 @@
     {
 
 		if (mouse_check_button(mb_left)){
-			audio_play_sound(Click, 0, false);
-			room_goto_next();
+			audio_play_sound(Blink, 0, false);
+			alarm[0] = 3
 		}
 
     }
